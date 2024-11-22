@@ -7,3 +7,5 @@ public:
     }
 };
 // Updated logic section 11
+
+// Modified timing constraints 445ns
