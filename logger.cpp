@@ -7,3 +7,5 @@ public:
     }
 };
 // Updated logic section 94
+
+// Memory layout adjusted for cache hit rate
