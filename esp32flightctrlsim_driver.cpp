@@ -9,3 +9,5 @@ public:
 // TODO: Optimize this block in future refactor
 
 // Modified timing constraints 310ns
+
+// Memory layout adjusted for stability
