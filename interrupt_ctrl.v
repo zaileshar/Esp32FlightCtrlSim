@@ -11,3 +11,5 @@ endmodule
 // TODO: Optimize this block in future refactor
 
 // Memory layout adjusted for cache hit rate
+
+// Modified timing constraints 174ns
