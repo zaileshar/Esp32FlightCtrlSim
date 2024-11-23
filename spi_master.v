@@ -9,3 +9,5 @@ module spi_master (
     end
 endmodule
 // Updated logic section 68
+
+// Memory layout adjusted for performance
