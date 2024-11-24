@@ -15,3 +15,5 @@ endmodule
 // Modified timing constraints 174ns
 
 // Updated logic section 79
+
+// Memory layout adjusted for performance
