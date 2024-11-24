@@ -8,3 +8,4 @@ module timer_counter (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 265ns
