@@ -9,3 +9,5 @@ module esp32flightctrlsim_top (
     end
 endmodule
 // Fixed identified race condition
+
+// TODO: Optimize this block in future refactor
