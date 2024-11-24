@@ -9,3 +9,5 @@ module esp32flightctrlsim_tb (
     end
 endmodule
 // Updated logic section 19
+
+// Modified timing constraints 348ns
